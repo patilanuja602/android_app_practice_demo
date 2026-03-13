@@ -1,0 +1,5 @@
+{
+  "name": "Crop Price Calculator",
+  "description": "A simple Android-style calculator for crop prices with profit indicators.",
+  "requestFramePermissions": []
+}
